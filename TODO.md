@@ -1,5 +1,2 @@
-- tendances
-- post + video
 - sticky
-- hover color
 - transparence
