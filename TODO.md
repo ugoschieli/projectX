@@ -1,0 +1,7 @@
+- post + image
+- barre du bas
+- tendances
+- post + video
+- sticky
+- hover color
+- transparence

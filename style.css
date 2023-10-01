@@ -1,0 +1,10 @@
+@font-face {
+    font-family: "Chirp";
+    src: url(fonts/Chirp-Regular.80fda27a.woff2)
+}
+
+:root {
+    --bs-body-font-family: "Chirp";
+    --bs-border-color: #16181C;
+}
+
